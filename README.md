@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Tần 👋
 
-<!--
-**letontan2003/letontan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Giới thiệu bản thân
+- 🎓 Cử nhân **Kỹ thuật Phần mềm (Software Engineering)**.
+- 📱 Định hướng chuyên sâu: **Mobile Development (Flutter)** & **Fullstack Development**.
+- 🚀 Mục tiêu: Tìm kiếm cơ hội việc làm và đóng góp vào các dự án phần mềm thực tế chất lượng cao.
+- 📬 Liên hệ: [letontan4@gmail.com](mailto:letontan4@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📌 Dự án tiêu biểu
+- **E-Commerce Fashion App**: Ứng dụng mua sắm thời trang đa nền tảng viết bằng Flutter, tối ưu UI/UX và xử lý trạng thái chuyên nghiệp.
+- **Graduation Thesis Project**: Hệ sinh thái ứng dụng hoàn chỉnh kết hợp mobile và backend RESTful API.
+- **DNS Mobile Support**: Ứng dụng tiện ích tối ưu hóa luồng API và trải nghiệm người dùng.
+
+---
+
+### 📊 Thống kê hoạt động
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letontan2003&show_icons=true&theme=tokyonight&hide_border=true" alt="Tần's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letontan2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letontan2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
