@@ -19,12 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-### 📌 Dự án tiêu biểu
-- **E-Commerce Fashion App**: Ứng dụng mua sắm thời trang đa nền tảng viết bằng Flutter, tối ưu UI/UX và xử lý trạng thái chuyên nghiệp.
-- **Graduation Thesis Project**: Hệ sinh thái ứng dụng hoàn chỉnh kết hợp mobile và backend RESTful API.
-- **DNS Mobile Support**: Ứng dụng tiện ích tối ưu hóa luồng API và trải nghiệm người dùng.
 
 ---
 
